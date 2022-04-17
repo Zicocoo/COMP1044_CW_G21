@@ -2,28 +2,28 @@
 Group 21
 <h1 align="center">Hi 👋, Welcome to our Libaray Management System.</h1>
 <h3 align="center">Quick Tour to our Project</h3>
-<h3>🤝 Click "Apache" and "MySQL" start button.</h3>
-<h3>    -Check all the data from the dataset are inserted to phpMyAdmin's library. </h3>
-<h3>📝 Type the link in Chrome(recommended web browser) : </h3>
-<h3>    -localhost/(folder you store our project)/userlogin1a.php </h3>
 
 - 🔭 First, make sure you opened XAMPP Control Panel.
 
 - 🤝 Click "Apache" and "MySQL" start button.
-- Check all the data from the dataset are inserted to phpMyAdmin's library.
-- 🌱 I’m currently learning **5**
 
-- 👯 I’m looking to collaborate on **4**
+- Check all the data from the dataset are inserted to phpMyAdmin's library.
+
+- 📝 Type the link in Chrome(recommended web browser) :
+
+- localhost/(folder you store our project)/userlogin1a.php
+
+- 👯 Please fill in the correct Username and Password. / Or You can choose to register your own.
+
+- 🌱 There should be **8** function blocks on the Home Page.
 
 - 🤝 I’m looking for help with **5**
 
-- 👨‍💻 All of my projects are available at [5](5)
-
-- 📝 I regularly write articles on [5](5)
+- 👨‍💻 All of our projects are available at my GitHub Repository
 
 - 💬 Ask me about **5**
 
-- 📫 How to reach me **5**
+- 📫 How to reach me **hcydh1@nottingham.edu.my**
 
 - 📄 Know about my experiences [5](5)
 
