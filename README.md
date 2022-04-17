@@ -2,7 +2,7 @@
 Group 21
 <h1 align="center">Hi 👋, Welcome to our Libaray Management System.</h1>
 <h3 align="center">Quick Tour to our Project</h3>
-<h1>🔭 First, make sure you opened XAMPP Control Panel.</h1>
+<h3>🔭 First, make sure you opened XAMPP Control Panel.</h3>
 🤝 Click "Apache" and "MySQL" start button.
     -Check all the data from the dataset are inserted to phpMyAdmin's library.
 📝 Type the link in Chrome(recommended web browser) :
