@@ -1,7 +1,18 @@
 # DatabaseCW2
 Group 21
 <h1 align="center">Hi 👋, Welcome to our Libaray Management System.</h1>
-<h3 align="center">A member of Database CW2 Group 21</h3>
+<h3 align="center">Quick Tour to our Project</h3>
+🔭 First, make sure you opened XAMPP Control Panel.
+🤝 Click "Apache" and "MySQL" start button.
+    -Check all the data from the dataset are inserted to phpMyAdmin's library.
+📝 Type the link in Chrome(recommended web browser) :
+    -localhost/(folder you store our project)/userlogin1a.php
+
+
+
+
+
+
 
 <h3 align="left">Connect with me: hcydh1@nottingham.edu.my </h3>
 <p align="left">
