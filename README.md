@@ -38,7 +38,7 @@ localhost/(the folder you store our project)/userlogin1a.php
 ---
 
 ## License & copyright
-© Huang Danyi, University of Nottingham Malaysia Library Management System Design
+© Chai Qin Hui, Huang Danyi, Firdaus Bin Fakhir Khan, Lee Shing Zhe, University of Nottingham Malaysia Library Management System Design
 
 ---
 
