@@ -8,7 +8,25 @@ Group 21
 <h3>📝 Type the link in Chrome(recommended web browser) : </h3>
 <h3>    -localhost/(folder you store our project)/userlogin1a.php </h3>
 
+- 🔭 I’m currently working on **cw2**
 
+- 🌱 I’m currently learning **5**
+
+- 👯 I’m looking to collaborate on **4**
+
+- 🤝 I’m looking for help with **5**
+
+- 👨‍💻 All of my projects are available at [5](5)
+
+- 📝 I regularly write articles on [5](5)
+
+- 💬 Ask me about **5**
+
+- 📫 How to reach me **5**
+
+- 📄 Know about my experiences [5](5)
+
+- ⚡ Fun fact **5**
 
 
 
