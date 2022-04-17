@@ -3,10 +3,10 @@ Group 21
 <h1 align="center">Hi 👋, Welcome to our Libaray Management System.</h1>
 <h3 align="center">Quick Tour to our Project</h3>
 <h3>🔭 First, make sure you opened XAMPP Control Panel.</h3>
-🤝 Click "Apache" and "MySQL" start button.
-    -Check all the data from the dataset are inserted to phpMyAdmin's library.
-📝 Type the link in Chrome(recommended web browser) :
-    -localhost/(folder you store our project)/userlogin1a.php
+<h3>🤝 Click "Apache" and "MySQL" start button.</h3>
+<h3>    -Check all the data from the dataset are inserted to phpMyAdmin's library. </h3>
+<h3>📝 Type the link in Chrome(recommended web browser) : </h3>
+<h3>    -localhost/(folder you store our project)/userlogin1a.php </h3>
 
 
 
