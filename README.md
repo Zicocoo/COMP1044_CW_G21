@@ -1,9 +1,9 @@
 # DatabaseCW2
 Group 21
-<h1 align="center">Hi 👋, I'm Huang,Danyi</h1>
+<h1 align="center">Hi 👋, There is our group work of Libaray Management System.</h1>
 <h3 align="center">A member of Database CW2 Group 21</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: hcydh1@nottingham.edu.my </h3>
 <p align="left">
 </p>
 
