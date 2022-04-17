@@ -1,6 +1,6 @@
 # DatabaseCW2
 Group 21
-<h1 align="center">Hi 👋, There is our group work of Libaray Management System.</h1>
+<h1 align="center">Hi 👋, Welcome to our Libaray Management System.</h1>
 <h3 align="center">A member of Database CW2 Group 21</h3>
 
 <h3 align="left">Connect with me: hcydh1@nottingham.edu.my </h3>
