@@ -7,7 +7,7 @@ Group 21
 
 - 🤝 Click "Apache" and "MySQL" start button.
 
-Check all the data from the dataset are inserted to phpMyAdmin's library.
+"Check all the data from the dataset are inserted to phpMyAdmin's library."
 
 - 📝 Type the link in Chrome(recommended web browser) :
 
