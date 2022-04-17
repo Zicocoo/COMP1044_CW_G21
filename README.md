@@ -2,6 +2,7 @@
 Group 21
 <h1 align="center">Hi 👋, Welcome to our Libaray Management System.</h1>
 <h3 align="center">Quick Tour to our Project</h3>
+**version 1.0.0**
 
 - 🔭 First, make sure you opened XAMPP Control Panel.
 
@@ -23,6 +24,21 @@ localhost/(the folder you store our project)/userlogin1a.php
 
 - 👨‍💻 All of our projects are available at my GitHub Repository.
 
+---
+
+## Contributors
+
+- Chai Qin Hui
+- Huang, Danyi
+- Firdaus Bin Fakhir Khan
+- Lee Shing Zhe
+
+---
+
+## License & copyright
+© Huang Danyi, University of Nottingham Malaysia Library Management System Design
+
+---
 
 <h3 align="left"> Support </h3>
 
