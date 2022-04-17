@@ -7,33 +7,26 @@ Group 21
 
 - 🤝 Click "Apache" and "MySQL" start button.
 
-- Check all the data from the dataset are inserted to phpMyAdmin's library.
+Check all the data from the dataset are inserted to phpMyAdmin's library.
 
 - 📝 Type the link in Chrome(recommended web browser) :
 
-- localhost/(folder you store our project)/userlogin1a.php
+localhost/(the folder you store our project)/userlogin1a.php
 
 - 👯 Please fill in the correct Username and Password. / Or You can choose to register your own.
 
 - 🌱 There should be **8** function blocks on the Home Page.
 
-- 🤝 I’m looking for help with **5**
+- 🤝 Each function blocks would have a **home** button and a **logout** button at the top right.
 
-- 👨‍💻 All of our projects are available at my GitHub Repository
+- 💬 You can explore our project with the function report and the demo video.
 
-- 💬 Ask me about **5**
+- 👨‍💻 All of our projects are available at my GitHub Repository.
+
+
+<h3 align="left"> Support </h3>
 
 - 📫 How to reach me **hcydh1@nottingham.edu.my**
-
-- 📄 Know about my experiences [5](5)
-
-- ⚡ Fun fact **5**
-
-
-
-
-
-<h3 align="left">Connect with me: hcydh1@nottingham.edu.my </h3>
 <p align="left">
 </p>
 
