@@ -6,6 +6,8 @@ Group 21 **version 1.0.0**
 
 <h3 align="center">Quick Tour to our Project</h3>
 
+This is the system designed for our librarians, **only librarians** can have access to modify or update the information.
+
 - 🔭 First, make sure you opened XAMPP Control Panel.
 
 - 🤝 Click "Apache" and "MySQL" start button.
@@ -34,15 +36,21 @@ localhost/(the folder you store our project)/userlogin1a.php
 
 - **Login Username and Password**
 
-👯 If you already have an account, make sure fill in the correct **Username** and **Password**
+👯 If the librarian already has an account, make sure fill in the correct **Username** and **Password**.
 
-👯 If Enter Wrong Username or Password, **Username or Password is Invalid** will show.
+⚡ If the librarian enters **Wrong** Username or Password, **Username or Password is Invalid** will show.
+
+⚡ If the librarian doesn't input both Username & Password, straightly clicking login button, **Please Input Username and Password** will show.
+
+🤝 If the librarian enters **correct** Username and Password, login page will jump to the **Homepage**.
 
 - **New User Registration**
 
-🌱 If you don't have account to login, you can click register button on the login page. 
+🌱 If new librarian doesn't have account to login, he can register a new account by clicking **Register now** button on the login page. 
 
-🌱 Make sure you fill in all the columns, click **Sign Up**， then you can get your own account!
+⚡ Make sure all the columns must be filled, if there is any missing input in any column, when the register clicks **Sign Up**， an alert message **(missing part) must be filled out** will pop up, warning the register that the registration form is not submitted successfully.
+
+🤝 After the librarian fill in all the columns, click **Sign up**, then they can get their own library system account !
 
 ---
 
@@ -51,6 +59,8 @@ localhost/(the folder you store our project)/userlogin1a.php
 - **Add book**
 
 👨‍ Fill in all the columns.
+
+⚡ All the columns must be filled, if not, an alert message **(missing column name) must be filled out** will pop out to prevent the form being submitted.
 
 🤝 **Reset** button can help you clean all the columns you just filled in, so you don't need to delete every column one by one, making it more convinient for users.
 
@@ -62,6 +72,8 @@ localhost/(the folder you store our project)/userlogin1a.php
 
 👨‍ Fill in all the columns.
 
+⚡ All the columns must be filled, if not, an alert message **(missing column name) must be filled out** will pop out to prevent the form being submitted.
+
 🤝 **Reset** button same as the one in **Add book**.
 
 👯 Click **Submit** then the new member will be added to the database immediately.
@@ -70,7 +82,7 @@ localhost/(the folder you store our project)/userlogin1a.php
 
 - **Search book**
 
-📝 You can search the book either by **Book ID** or **Author** or **Book title**.
+📝 You can search any book either by **Book ID** or **Author** or **Book title**.
 
 🔭 Not filling anything in search box will show warning message: **Please fill in this field**
 
@@ -116,11 +128,11 @@ localhost/(the folder you store our project)/userlogin1a.php
 
 👨‍ Search "Borrow details" by **Borrow ID**.
 
-💬 **Borrow Status** will show, the library admin can modify the status.
+💬 **Borrow Status** will show, the librarian can **modify/update** the status.
 
 🤝 Click **Update data**, the new status for this borrow ID will be uploaded to the library's "borrowdetails" database.
 
-🔭 Not filling anything in search box will show warning message: **Please input a borrow ID to search**
+🔭 Not filling anything in search box will show warning message: **Please input a borrow ID to search**.
 
 ##
 
@@ -128,7 +140,7 @@ localhost/(the folder you store our project)/userlogin1a.php
 
 👨‍ Search "Member details" by **Member ID**.
 
-💬 **Member Information** will show, the library admin can modify the information.
+💬 **Member Information** will show, the librarian can **modify/update** the information.
 
 🤝 Click **Update data**, the new information for this member ID will be uploaded to the library's member database.
 
