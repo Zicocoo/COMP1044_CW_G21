@@ -28,6 +28,10 @@ localhost/(the folder you store our project)/userlogin1a.php
 
 ---
 
+## Functions
+
+---
+
 ## Contributors
 
 - Chai Qin Hui
