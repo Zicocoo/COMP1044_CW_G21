@@ -48,7 +48,7 @@ This is the system designed for our librarians, **only librarians** can have acc
 
 🌱 If new librarian doesn't have account to login, he can register a new account by clicking **Register now** button on the login page. 
 
-⚡ Make sure all the columns must be filled, if there is any missing input in any column, when the register clicks **Sign Up**，an alert message **"(missing part) must be filled out""** will pop up, warning the register that the registration form is not submitted successfully.
+⚡ Make sure all the columns must be filled, if there is any missing input in any column, when the register clicks **Sign Up**，an alert message **"(missing part) must be filled out"** will pop up, warning the register that the registration form is not submitted successfully.
 
 🤝 After the librarian fill in all the columns, click **Sign up**, then they can get their own library system account !
 
