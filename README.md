@@ -8,27 +8,25 @@ Group 21 **version 1.0.0**
 
 This is the system designed for our librarians, **only librarians** can have access to modify or update the information.
 
-- 🔭 First, make sure you opened XAMPP Control Panel.
+- 🔭 First, make sure the **XAMPP Control Panel** is opened.
 
-- 🤝 Click "Apache" and "MySQL" start button.
+- 🤝 Click **"Apache"** and **"MySQL"** start button.
 
-Check all the data from the dataset are inserted to phpMyAdmin's library.
+- 👨‍ Check all the data from the dataset are inserted to phpMyAdmin's library.
 
-- 📝 Type the link in Chrome(recommended web browser) :
+- 📝 Type the link in Chrome(recommended web browser) : 💬 localhost/(the folder you store our project)/userlogin1a.php
 
-localhost/(the folder you store our project)/userlogin1a.php
-
-- 👯 Please fill in the correct Username and Password. / Or You can choose to register your own.
+- 👯 Please fill in the correct Username and Password. / Or You can choose to **register own account**.
 
 - 🌱 There should be **8** function blocks on the Home Page.
 
 - 🤝 Each function blocks would have a **home** button and a **logout** button at the top right.
 
-- 👯 You can return to homepage or logout anytime you want.
+- 👯 You can **return** to homepage or logout anytime you want.
 
 - 💬 You can explore our project with the function report and the demo video.
 
-- 👨‍💻 All of our projects are available at my GitHub Repository.
+- 👨‍💻 All files related to our project are available at the GitHub Repository.
 
 ---
 
