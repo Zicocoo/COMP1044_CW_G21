@@ -42,6 +42,8 @@ This is the system designed for our librarians, **only librarians** can have acc
 
 🤝 If the librarian enters **correct** Username and Password, login page will jump to the **Homepage**.
 
+##
+
 - **New User Registration**
 
 🌱 If new librarian doesn't have account to login, he can register a new account by clicking **Register now** button on the login page. 
