@@ -28,7 +28,39 @@ localhost/(the folder you store our project)/userlogin1a.php
 
 ---
 
-## Functions
+## Login Page Functions
+
+- Login Username and Password
+
+👯 If you already have an account, make sure fill in the correct **Username** and **Password**
+
+👯 If Enter Wrong Username or Password, **Username or Password is Invalid** will show.
+
+- New User Registration
+
+🌱 If you don't have account to login, you can click register button on the login page. 
+
+🌱 Make sure you fill in all the columns, click **Sign Up**， then you can get your own account!
+
+---
+
+## Homepage Functions
+
+- Add book
+
+- Add member
+
+- Search book
+
+- Search member
+
+- Delete book
+
+- Delete member
+
+- Update borrow details record
+
+- Update member details
 
 ---
 
