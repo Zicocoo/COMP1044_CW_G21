@@ -36,9 +36,9 @@ This is the system designed for our librarians, **only librarians** can have acc
 
 👯 If the librarian already has an account, make sure fill in the correct **Username** and **Password**.
 
-⚡ If the librarian enters **Wrong** Username or Password, **Username or Password is Invalid** will show.
+⚡ If the librarian enters **Wrong** Username or Password, **"Username or Password is Invalid"** will show.
 
-⚡ If the librarian doesn't input both Username & Password, straightly clicking login button, **Please Input Username and Password** will show.
+⚡ If the librarian doesn't input both Username & Password, straightly clicking login button, **"Please Input Username and Password"** will show.
 
 🤝 If the librarian enters **correct** Username and Password, login page will jump to the **Homepage**.
 
@@ -72,7 +72,7 @@ This is the system designed for our librarians, **only librarians** can have acc
 
 👨‍ Fill in all the columns.
 
-⚡ All the columns must be filled, if not, an alert message **(missing column name) must be filled out** will pop out to prevent the form being submitted.
+⚡ All the columns must be filled, if not, an alert message **"(missing column name) must be filled out"** will pop out to prevent the form being submitted.
 
 🤝 **Reset** button same as the one in **Add book**.
 
@@ -84,9 +84,9 @@ This is the system designed for our librarians, **only librarians** can have acc
 
 📝 You can search any book either by **Book ID** or **Author** or **Book title**.
 
-🔭 Not filling anything in search box will show warning message: **Please fill in this field**
+🔭 Not filling anything in search box will show warning message: **"Please fill in this field"**
 
-👋 Filling in books that are not in database will show **No Record Found**.
+👋 Filling in books that are not in database will show **"No Record Found"**.
 
 ##
 
@@ -94,9 +94,9 @@ This is the system designed for our librarians, **only librarians** can have acc
 
 📝 You can search any member either by **Member ID** or **First name** or **Last name**.
 
-🔭 Not filling anything in search box will show warning message: **Please fill in this field**
+🔭 Not filling anything in search box will show warning message: **"Please fill in this field"**
 
-👋 Filling in member information that is not in database will show **No Record Found**.
+👋 Filling in member information that is not in database will show **"No Record Found"**.
 
 ##
 
@@ -106,9 +106,9 @@ This is the system designed for our librarians, **only librarians** can have acc
 
 💬 **Delete button** will show at the right of the book, click it then the book will be deleted from the database.
 
-🔭 Not filling anything in search box will show warning message: **Please fill in this field**
+🔭 Not filling anything in search box will show warning message: **"Please fill in this field"**
 
-👋 Filling in books that are not in database will show **No Record Found**.
+👋 Filling in books that are not in database will show **"No Record Found"**.
 
 ##
 
@@ -118,9 +118,9 @@ This is the system designed for our librarians, **only librarians** can have acc
 
 💬 **Delete button** will show at the right of the member, click it then the member will be deleted from the database.
 
-🔭 Not filling anything in search box will show warning message: **Please fill in this field**
+🔭 Not filling anything in search box will show warning message: **"Please fill in this field"**
 
-👋 Filling in member information that is not in database will show **No Record Found**.
+👋 Filling in member information that is not in database will show **"No Record Found"**.
 
 ##
 
@@ -132,7 +132,7 @@ This is the system designed for our librarians, **only librarians** can have acc
 
 🤝 Click **Update data**, the new status for this borrow ID will be uploaded to the library's "borrowdetails" database.
 
-🔭 Not filling anything in search box will show warning message: **Please input a borrow ID to search**.
+🔭 Not filling anything in search box will show warning message: **"Please input a borrow ID to search"**.
 
 ##
 
@@ -144,7 +144,7 @@ This is the system designed for our librarians, **only librarians** can have acc
 
 🤝 Click **Update data**, the new information for this member ID will be uploaded to the library's member database.
 
-🔭 Not filling anything in search box will show warning message: **Please input a member ID to search**
+🔭 Not filling anything in search box will show warning message: **"Please input a member ID to search"**
 
 ##
 
