@@ -1,6 +1,6 @@
 # COMP1044_CW_G21
 Group 21 **version 1.0.0**
-<h1 align="center">Hi 👋, Welcome to our Libaray Management System.</h1>
+<h1 align="center">Hi 👋, Welcome to our Library Management System.</h1>
 
 ---
 
